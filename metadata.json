@@ -1,0 +1,10 @@
+{
+  "name": "Remix CareNation",
+  "description": "Smart Healthcare. Anytime. Anywhere. Bilingual Tamil and English healthcare platform with verified hospitals, first aid, appointments, insurance, and emergency support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
